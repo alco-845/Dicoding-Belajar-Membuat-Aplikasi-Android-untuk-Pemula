@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Submission</string>
+
+    <string name="title">World of Warships Best Ships In Every Tier</string>
+
+    <string name="ship_name">Ship Name</string>
+    <string name="description">Description</string>
+    <string name="ship_class">Class</string>
+    <string name="ship_country">Country</string>
+
+    <string name="about_name">Nicola Yanni Alivant</string>
+    <string name="about_email">nicola.alivant@gmail.com</string>
+
+    <string name="read_more">Read More</string>
+
+    <string name="toolbar_main_menu">Main Menu</string>
+    <string name="toolbar_detail">Detail</string>
+    <string name="toolbar_about">About</string>
+    <string name="toolbar_share">Share</string>
+
+    <string name="toast_detail">Whatsapp have not been installed.</string>
+</resources>
